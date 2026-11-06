@@ -1,0 +1,23 @@
+{
+    "Random Forest": {
+        "Accuracy": 0.932,
+        "Precision": 0.5138888888888888,
+        "Recall": 0.5285714285714286,
+        "F1-Score": 0.5211267605633803,
+        "ROC-AUC": 0.9301689708141321
+    },
+    "Support Vector Machine": {
+        "Accuracy": 0.927,
+        "Precision": 0.38461538461538464,
+        "Recall": 0.07142857142857142,
+        "F1-Score": 0.12048192771084337,
+        "ROC-AUC": 0.8698463901689709
+    },
+    "Gaussian Naive Bayes": {
+        "Accuracy": 0.919,
+        "Precision": 0.358974358974359,
+        "Recall": 0.2,
+        "F1-Score": 0.25688073394495414,
+        "ROC-AUC": 0.8476497695852535
+    }
+}
